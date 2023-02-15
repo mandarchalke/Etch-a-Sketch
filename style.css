@@ -5,10 +5,16 @@
     display: flex;
 }
 
-.grid{
+.row {
     border: 2px solid blue;
     height: 10px;
     width: 10px;
     flex-direction: row;
 }
 
+.column {
+    border: 2px solid green;
+    height: 10px;
+    width: 10px;
+    flex-direction: column;
+}
