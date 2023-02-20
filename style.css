@@ -2,7 +2,7 @@
     border: 2px solid red;
     height: 800px;
     width: 800px;
-    display: flex;
+    display: flexbox;
 }
 
 .row {
@@ -10,11 +10,4 @@
     height: 10px;
     width: 10px;
     flex-direction: row;
-}
-
-.column {
-    border: 2px solid green;
-    height: 10px;
-    width: 10px;
-    flex-direction: column;
 }
